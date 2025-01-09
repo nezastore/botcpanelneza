@@ -194,8 +194,8 @@ const reply_new = (text) => {
       externalAdReply: {
         title: global.ownerName,
         body: `${global.ownerName}`,
-        thumbnailUrl: "https://telegra.ph/file/214e53371066c7fab49be.jpg",
-        sourceUrl: 'https://wa.me//6285235028177',
+        thumbnailUrl: "https://graph.org/file/4bc227a8ddc6066504cda.jpg",
+        sourceUrl: 'https://wa.me//6283129011845',
         mediaType: 1,
         renderLargerThumbnail: false,
       }
