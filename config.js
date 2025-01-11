@@ -39,7 +39,7 @@ global.apikey = 'ptla_Vn2xCE0iVXqOioZYVRZqKnuaKWi2T56U5u0AjaYJ4dl'; // Key PTLA
 
 global.capikey = 'ptlc_e8kf3vMDGGFXZmEpzW5uOhnRJ9JT4MovKcV5t5XYMOP' // Isi Apikey Pltc Lu
 
-global.eggsnya = '15' // id eggs yang dipakai
+global.eggsnya = '11' // id eggs yang dipakai
 
 global.location = '1' // id location
 
