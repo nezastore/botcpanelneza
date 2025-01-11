@@ -249,7 +249,7 @@ if(body === 'tes' || body === 'tess') return reply(`*Bot Sedang Aktif✅*\n_deng
 
 switch(command) {
   case 'menu':{
-  reply(`*BOT CREATE PANEL SIMPLE V2*
+  reply(`*BOT CREATE PANEL SIMPLE*
 > Script By : NezaFvnky
 
 *⚌⚌⚌ [ OWNER MENU ] ⚌⚌⚌*
