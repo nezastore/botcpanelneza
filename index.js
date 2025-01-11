@@ -12,7 +12,7 @@ const chalk = require("chalk")
 const Ncache = new nodeCache();
 
 //——————————————————————————[ BAGIAN CFONTS ]——————————————————————————//
-CFonts.say ("APENST", {
+CFonts.say ("NEZA", {
     font: 'chrome',
     align: 'left',
     gradient: ["blue", "magenta"],
@@ -80,7 +80,7 @@ if (useCODE && !baseapenbotz.authState.creds.registered) {
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: global.NewsletterJid,
                   serverMessageId: 125,
-                  newsletterName: 'INFO PANEL APENOFFC'
+                  newsletterName: 'INFO PANEL NEZASTORE'
                 }
               }
             }, {
